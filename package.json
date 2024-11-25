@@ -34,7 +34,7 @@
     "@mui/icons-material": "^5.10.2",
     "@mui/material": "^5.10.2",
     "@mui/styles": "^5.10.2",
-    "@mui/x-data-grid": "^5.15.3",
+    "@mui/x-data-grid": "^7.22.3",
     "@percy/cli": "1.0.0-beta.76",
     "@percy/sdk-utils": "1.0.0-beta.76",
     "@percy/selenium-webdriver": "1.0.0",
