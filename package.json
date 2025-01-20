@@ -38,7 +38,7 @@
     "@percy/cli": "1.0.0-beta.76",
     "@percy/sdk-utils": "1.0.0-beta.76",
     "@percy/selenium-webdriver": "1.0.0",
-    "@testing-library/react": "^12.1.5",
+    "@testing-library/react": "^16.2.0",
     "@types/jest": "^27.5.2",
     "@types/react": "^17.0.48",
     "@types/react-dom": "^17.0.17",
